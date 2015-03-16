@@ -1,0 +1,5 @@
+config/
+*.class
+.exe
+!este.exe
+build/
